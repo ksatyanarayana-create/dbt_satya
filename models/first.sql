@@ -1,0 +1,1 @@
+select id, concat(fname,lname) as bothd from satya.rani.yyy
