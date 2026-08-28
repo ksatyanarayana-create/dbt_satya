@@ -1,1 +1,1 @@
-select id, concat(fname,lname) as both from satya.rani.yyy
+select id, concat(fname,lname) as bothdddd from satya.rani.yyy
