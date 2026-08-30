@@ -1,0 +1,5 @@
+seeds:
+  - name: sc
+    config:
+      column_types:
+        id: varchar(33)
